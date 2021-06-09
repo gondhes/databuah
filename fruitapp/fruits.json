@@ -1,0 +1,34 @@
+{
+  "fruits" :[
+    {
+      "id":1,
+      "nama":"Nanas",
+      "harga":100000,
+      "berat":4000
+    },
+    {
+      "id":2,
+      "nama":"Manggis",
+      "harga":350000,
+      "berat":10000
+    },
+    {
+      "id":3,
+      "nama":"Nangka",
+      "harga":90000,
+      "berat":2000
+    },
+    {
+      "id":4,
+      "nama":"Durian",
+      "harga":400000,
+      "berat":5000
+    },
+    {
+      "id":5,
+      "nama":"Strawberry",
+      "harga":120000,
+      "berat":6000
+    }
+  ]
+}
